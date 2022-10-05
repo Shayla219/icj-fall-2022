@@ -7,3 +7,5 @@ hello world tutorial
 My new paragraph
 
 Second paragraph
+
+This is my great Github project!
